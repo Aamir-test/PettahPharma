@@ -6,6 +6,7 @@
 [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/themesberg/volt-react-dashboard.svg)](https://github.com/themesberg/volt-react-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
 Hi Aamir - I'm Madhu
+Hi i'm Delta Worrier 
 
 [![Volt React Dashboard Bootstrap 5](https://themesberg.s3.us-east-2.amazonaws.com/public/products/volt-react-dashboard/thumbnail.png)](https://demo.themesberg.com/volt-react-dashboard)
 
